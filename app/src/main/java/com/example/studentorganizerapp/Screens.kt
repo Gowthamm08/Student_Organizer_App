@@ -203,8 +203,8 @@ fun ProfileScreen() {
         AppBar("Student Profile")
 
         StudentProfile(
-            "Gowthamm",
-            "Student ID: 1PE23CS000",
+            "Gowtham B",
+            "Student ID: PES1UG24CS172",
             "Computer Science Engineering"
         )
 
